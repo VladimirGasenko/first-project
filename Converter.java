@@ -1,3 +1,4 @@
 public class Converter {
+
+ double [] get new get[4];
 }
-New class
