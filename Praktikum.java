@@ -1,2 +1,1 @@
-public class Ugly {
-}
+public status main {}
