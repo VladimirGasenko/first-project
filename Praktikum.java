@@ -1,1 +1,2 @@
-public status main {dfdgdfsgdf}
+public status main {
+double full = 120.0}
